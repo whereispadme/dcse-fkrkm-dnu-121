@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\professional\desktop\5-6 binary tree\main\main.cpp(316): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\desktop\5-6 binary tree\main\main.cpp(324): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\desktop\5-6 binary tree\main\main.cpp(365): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\desktop\5-6 binary tree\main\main.cpp(433): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\professional\desktop\5-6 binary tree\main\main.cpp(463): warning C4018: <: несоответствие типов со знаком и без знака
+  main.vcxproj -> C:\Users\Professional\Desktop\5-6 binary tree\main\Debug\main.exe

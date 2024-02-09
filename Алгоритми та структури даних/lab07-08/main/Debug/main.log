@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\андрей\desktop\уч\asd\7-8\main\main.cpp(180): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\андрей\desktop\уч\asd\7-8\main\main.cpp(182): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\андрей\desktop\уч\asd\7-8\main\main.cpp(193): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\андрей\desktop\уч\asd\7-8\main\main.cpp(195): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\андрей\desktop\уч\asd\7-8\main\main.cpp(277): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\asd\7-8\main\main.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
+  main.vcxproj -> C:\Users\Андрей\Desktop\уч\asd\7-8\main\Debug\main.exe

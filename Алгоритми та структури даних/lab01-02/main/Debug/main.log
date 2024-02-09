@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\андрей\desktop\уч\asd\1-2\main\main.cpp(344): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\asd\1-2\main\main.cpp(370): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\asd\1-2\main\main.cpp(443): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\asd\1-2\main\main.cpp(469): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\asd\1-2\main\main.cpp(536): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\asd\1-2\main\main.cpp(561): warning C4018: <: несоответствие типов со знаком и без знака
+  main.vcxproj -> C:\Users\Андрей\Desktop\уч\asd\1-2\main\Debug\main.exe
