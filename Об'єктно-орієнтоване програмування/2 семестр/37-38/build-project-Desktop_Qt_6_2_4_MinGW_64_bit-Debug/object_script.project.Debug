@@ -1,0 +1,12 @@
+debug/figure.o
+debug/hemisphere.o
+debug/hemisphereform.o
+debug/main.o
+debug/mainwindow.o
+debug/polyhedron.o
+debug/pyramidform.o
+debug/quadrangularpyramid.o
+debug/round.o
+debug/moc_hemisphereform.o
+debug/moc_mainwindow.o
+debug/moc_pyramidform.o
