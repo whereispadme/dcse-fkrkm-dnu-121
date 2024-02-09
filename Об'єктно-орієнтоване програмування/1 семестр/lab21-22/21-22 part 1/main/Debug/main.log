@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\андрей\desktop\уч\oop\21-22 part 1\main\main.cpp(40): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\андрей\desktop\уч\oop\21-22 part 1\main\main.cpp(47): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\андрей\desktop\уч\oop\21-22 part 1\main\main.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\oop\21-22 part 1\main\main.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+  main.vcxproj -> C:\Users\Андрей\Desktop\уч\oop\21-22 part 1\main\Debug\main.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\андрей\desktop\уч\oop\21-22 part 2\main\main.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\oop\21-22 part 2\main\main.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+  main.vcxproj -> C:\Users\Андрей\Desktop\уч\oop\21-22 part 2\main\Debug\main.exe
