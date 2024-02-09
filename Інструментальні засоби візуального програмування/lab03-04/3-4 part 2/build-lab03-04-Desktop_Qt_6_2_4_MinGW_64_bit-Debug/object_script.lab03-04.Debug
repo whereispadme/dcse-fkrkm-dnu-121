@@ -1,0 +1,10 @@
+debug/arrayform.o
+debug/main.o
+debug/mainwindow.o
+debug/myarray.o
+debug/rangeform.o
+debug/salaryform.o
+debug/moc_arrayform.o
+debug/moc_mainwindow.o
+debug/moc_rangeform.o
+debug/moc_salaryform.o

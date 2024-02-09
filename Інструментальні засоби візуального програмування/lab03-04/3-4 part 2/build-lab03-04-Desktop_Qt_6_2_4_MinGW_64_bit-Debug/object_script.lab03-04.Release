@@ -1,0 +1,10 @@
+release/arrayform.o
+release/main.o
+release/mainwindow.o
+release/myarray.o
+release/rangeform.o
+release/salaryform.o
+release/moc_arrayform.o
+release/moc_mainwindow.o
+release/moc_rangeform.o
+release/moc_salaryform.o

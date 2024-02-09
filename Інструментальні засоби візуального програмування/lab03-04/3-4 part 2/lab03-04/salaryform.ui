@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>salaryform</class>
+ <widget class="QWidget" name="salaryform">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>378</width>
+    <height>590</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>361</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Период расчета</string>
+   </property>
+   <widget class="QComboBox" name="firstComboBox">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>30</y>
+      <width>211</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Январь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Февраль</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Март</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Апрель</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Май</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Июнь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Июль</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Август</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Сентябрь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Октябрь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ноябрь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Декабрь</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>30</y>
+      <width>121</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Начальный месяц</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>121</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Конечный месяц</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="lastComboBox">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>70</y>
+      <width>211</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Январь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Февраль</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Март</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Апрель</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Май</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Июнь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Июль</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Август</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Сентябрь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Октябрь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ноябрь</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Декабрь</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="comboxApplyPushButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>110</y>
+      <width>341</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Подтвердить</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>170</y>
+     <width>361</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Ввод данных по месяцам</string>
+   </property>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Месяц</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>40</y>
+      <width>211</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="applyPushButton">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>80</y>
+      <width>341</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Подтвердить</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>300</y>
+     <width>361</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Результаты</string>
+   </property>
+   <widget class="QListWidget" name="listWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>341</width>
+      <height>221</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="resetPushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>560</y>
+     <width>361</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Очистить</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
