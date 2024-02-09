@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\андрей\desktop\уч\oop\19-20 part 1\main\main.cpp(43): error C2440: =: невозможно преобразовать "Base1 *" в "Inherit *"
+  c:\users\андрей\desktop\уч\oop\19-20 part 1\main\main.cpp(43): note: Для приведения базового класса к производному требуется dynamic_cast или static_cast
+c:\users\андрей\desktop\уч\oop\19-20 part 1\main\main.cpp(70): error C2440: =: невозможно преобразовать "Base2 *" в "Inherit *"
+  c:\users\андрей\desktop\уч\oop\19-20 part 1\main\main.cpp(70): note: Для приведения базового класса к производному требуется dynamic_cast или static_cast
+c:\users\андрей\desktop\уч\oop\19-20 part 1\main\main.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\андрей\desktop\уч\oop\19-20 part 1\main\main.cpp(131): warning C4018: <: несоответствие типов со знаком и без знака
