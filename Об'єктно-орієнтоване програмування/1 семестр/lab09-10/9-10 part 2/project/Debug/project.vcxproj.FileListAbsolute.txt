@@ -1,0 +1,3 @@
+C:\Users\Андрей\Desktop\9-10(2)\project\Debug\project.exe
+C:\Users\Андрей\Desktop\oop new\9-10 part 2\project1\Debug\project.exe
+C:\Users\Андрей\Desktop\oop new\9-10 part 2\project\Debug\project.exe
