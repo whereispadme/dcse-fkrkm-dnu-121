@@ -1,0 +1,12 @@
+release/figure.o
+release/hemisphere.o
+release/hemisphereform.o
+release/main.o
+release/mainwindow.o
+release/polyhedron.o
+release/pyramidform.o
+release/quadrangularpyramid.o
+release/round.o
+release/moc_hemisphereform.o
+release/moc_mainwindow.o
+release/moc_pyramidform.o
