@@ -1,0 +1,10 @@
+﻿  project.cpp
+C:\Users\Андрей\Desktop\oop new\15-16 part 1\project\project.cpp(42,48): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Андрей\Desktop\oop new\15-16 part 1\project\project.cpp(62,44): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Андрей\Desktop\oop new\15-16 part 1\project\project.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\Desktop\oop new\15-16 part 1\project\project.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "void view<int>(const T *,const size_t)"
+          with
+          [
+              T=int
+          ]
+  project.vcxproj -> C:\Users\Андрей\Desktop\oop new\15-16 part 1\project\Debug\project.exe
