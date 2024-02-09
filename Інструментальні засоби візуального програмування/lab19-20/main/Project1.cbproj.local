@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.833,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\учёба\Новая папка\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,D:\учёба\Новая папка\UMDI.cpp=D:\учёба\Новая папка\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\учёба\Новая папка\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\учёба\Новая папка\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\учёба\Новая папка\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,D:\учёба\Новая папка\UMDI.dfm=D:\учёба\Новая папка\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.860,D:\учёба\Новая папка\UMDI.h=D:\учёба\Новая папка\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,=C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.228,C:\Users\Нестер\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\учёба\Новая папка\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,=D:\учёба\Новая папка\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
